@@ -2,7 +2,7 @@ import BuildingManager from './BuildingManager';
 
 export default class Donut {
   constructor(donuts, gameStateController) {
-    this._gameName = 'Donut Clicker';
+    this._gameName = 'Donut Clicker updated';
     this._donuts = donuts;
     //this._donutsClicked = gameState.donutInfo.donutsClicked;
     this._controller = gameStateController;
