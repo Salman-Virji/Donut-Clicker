@@ -1,3 +1,4 @@
+//app
 import { Box, CssBaseline, ThemeProvider } from '@mui/material';
 import { createTheme } from '@mui/material/styles';
 import DonutClicker from './components/DonutClicker';
