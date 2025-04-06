@@ -1,6 +1,6 @@
 # Donut Clicker
 
-A simple and fun incremental game where you click to collect donuts! Built as a learning project to explore state management and UI updates in React.
+A simple and fun incremental game where you click to collect donuts! Based off the popular incremental game "Cookie Clicker" Built as a learning project to explore state management and UI updates in React.
 
 ---
 
