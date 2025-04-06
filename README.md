@@ -8,14 +8,14 @@ A simple and fun incremental game where you click to collect donuts! Based off t
 
 - Click the donut to earn points 
 - Upgrade mechanics to boost donut production 
-- Clean and responsive UI with smooth interactions
+- Clean and responsive UI 
 
 ---
 
 ## Tech Stack
 
 - React
-- JavaScript (ES6)
+- JavaScript 
 - CSS / HTML
 
 ---
